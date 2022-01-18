@@ -5,7 +5,6 @@
 ##### Within these data, lies important patterns and variables that can be used by superstores to plan business strategies. Find out some interesting insights from the data provided to you and make a dashboard using any BI tool (such as Tableau, Power BI, etc). Make a summary report based on your analysis.
 
 ##### Linkedin Link - https://youtu.be/cg2x-SxJz_Q
-##### Code Link - https://git.io/JZIra
 
 
 ## Task 3 - Pharmaceutical Drug Spending Analysis
@@ -15,8 +14,6 @@
 ##### Within these data, lies important patterns and variables that can be used by pharmaceutical companies to plan business strategies. Find out some interesting insights from the data provided to you and make a dashboard using any BI tool (such as Tableau, Power BI, etc.). Make a summary report based on your analysis.
 
 ##### Linkedin Link - https://youtu.be/cg2x-SxJz_Q
-##### Code Link - https://git.io/JZIra
-
 
 
 ## Task 4 - Diabetes Re-admission
@@ -26,7 +23,6 @@
 ##### Predict if a patient with diabetes will be readmitted to the hospital within 30 days. It contains 101,766 instances (patients) that are classified into three classes: 0 means no readmission, 1 means readmission in less than 30 days, and 2 means readmissions in more than 30 days.
 
 ##### Linkedin Link - https://youtu.be/cg2x-SxJz_Q
-##### Code Link - https://git.io/JZIra
 
 
 ## Task 5 - Air Passengers Prediction
@@ -36,7 +32,6 @@
 ##### This dataset provides monthly totals of a US airline passengers from 1949 to 1960.Use the different forecasting/Machine Learning techniques to predict the airlines passengers.
 
 ##### Linkedin Link - https://youtu.be/cg2x-SxJz_Q
-##### Code Link - https://git.io/JZIra
 
 
 
@@ -48,10 +43,8 @@
 ##### Determine which features are the best quality red wine indicators and generate insights into each of these factors to our model’s red wine quality. Predict the quality of wine on the basis of giving features. Deploy the model.
 
 ##### Linkedin Link - https://youtu.be/cg2x-SxJz_Q
-##### Code Link - https://git.io/JZIra
 
 
 
 ## Task 7 - SQL-Online-store
 
-##### Code Link - https://git.io/JZIra
